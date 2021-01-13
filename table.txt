@@ -1,0 +1,33 @@
+<info 테이블 – 정보 저장>
+
+create table info(
+name varchar(6), //이름
+id varchar(12), //ID
+pwd varchar(12), //비밀번호
+birth varchar(14), //생년월일
+gender varchar(4), //성별
+addr varchar(100), //주소
+tel varchar(13), //전화번호
+email varchar(50), //이메일
+primary key (id)
+);
+
+<friend 테이블-친구 정보 등록>
+create table friend (
+userid varchar(13), //ID
+friendid varchar(13), //친구ID
+fname varchar(6), //친구 이름
+foreign key (userid) references info (userid)
+);
+
+<zipcode 테이블 – 주소 정보 저장>
+create table zipcode(
+zipcode varchar(7), //우편번호
+sido varchar(6), //시.도
+gugun varchar(25), //구.군
+dong varchar(100), //동
+ri varchar(100), //리
+bldg varchar(100), //빌딩
+bunji varchar(20), //번지 수
+seq varchar(10) //시퀀스 
+);
