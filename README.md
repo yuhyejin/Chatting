@@ -27,5 +27,5 @@
 
 ## 프로젝트 개발 일정
 <p align="center"><img src="https://user-images.githubusercontent.com/74812194/184761588-99e224b2-d3e9-4a26-b409-abc06c5ad361.png" width="50%" height="60%"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/74812194/184762171-96a6d507-47eb-4024-bbb6-2aeae6457de1.png" width="40%" height="70%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74812194/184762171-96a6d507-47eb-4024-bbb6-2aeae6457de1.png" width="50%" height="60%"></p>
 
