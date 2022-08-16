@@ -26,3 +26,4 @@
 
 
 ## 프로젝트 개발 일정
+![image](https://user-images.githubusercontent.com/74812194/184761588-99e224b2-d3e9-4a26-b409-abc06c5ad361.png)
