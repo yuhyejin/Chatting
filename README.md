@@ -1,3 +1,5 @@
-# JAVA언어와 MySQL로 DB를 연동한 다중 클라이언트 채팅프로그램
+## 💬JAVA언어와 MySQL로 DB를 연동한 다중 클라이언트 채팅프로그램
 
-![채팅](https://user-images.githubusercontent.com/74812194/184757174-082a6709-cf63-4625-8216-b2136bbfb44e.png)
+![image](https://user-images.githubusercontent.com/74812194/184757463-f9fb51df-d451-4717-ac00-bb250a3b4d62.png)
+
+
