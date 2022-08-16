@@ -8,6 +8,8 @@
 * Programming <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 * IDE <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 
+
+
 ## 요구사항 분석
 
 * **로그인** - ID와 PW 정보가 DB에 있다면 로그인, 로그인 후 친구 목록(메인) 창으로 이동, 소켓서버 가동
@@ -17,4 +19,10 @@
 * **친구 추가** – 친구 ID를 검색하여 입력한 ID가 DB에 존재하면 친구 추가를 한 후, 친구 테이블에 저장
 * **채팅방** – 로그인한 계정의 이름으로 채팅방 입장, 메시지 전송과 친구 초대, 나가기 기능 구현
 
+
+
 ## 프로그램 데이터베이스 모델링
+![image](https://user-images.githubusercontent.com/74812194/184760173-b9ba66c4-f610-4b6b-a9c7-3c20ce281f26.png)
+
+
+## 프로젝트 개발 일정
